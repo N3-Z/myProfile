@@ -1,0 +1,49 @@
+{
+    "programming_language" : [
+        [
+            "C/C++",
+            "url"
+        ],
+        [
+            "Java",
+            "url"
+        ],
+        [
+            "Php", 
+            "url"
+        ],
+        [
+            "Python",
+            "url"
+        ]
+    ],
+    "extra_skill" : [
+        [
+            "Linux",
+            "url"
+        ],
+        [
+            "Mikrotik",
+            "url"
+        ],
+        [
+            "Cisco", 
+            "url"
+        ]
+    ],
+    "other" : [
+        [
+            "Android Studio",
+            "url"
+        ],
+        [
+            "React",
+            "url"
+        ],
+        [
+            "Visual Studio",
+            "url"
+        ]
+    ]
+
+}
