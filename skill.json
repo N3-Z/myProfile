@@ -2,47 +2,47 @@
     "programming_language" : [
         [
             "C/C++",
-            "url"
+            "https://raw.githubusercontent.com/N3-Z/myProfile/main/c%2B%2B.png"
         ],
         [
             "Java",
-            "url"
+            "https://raw.githubusercontent.com/N3-Z/myProfile/main/java.png"
         ],
         [
-            "Php", 
-            "url"
+            "PHP", 
+            "https://raw.githubusercontent.com/N3-Z/myProfile/main/php.png"
         ],
         [
             "Python",
-            "url"
+            "https://raw.githubusercontent.com/N3-Z/myProfile/main/python.png"
         ]
     ],
     "extra_skill" : [
         [
             "Linux",
-            "url"
+            "https://raw.githubusercontent.com/N3-Z/myProfile/main/linux.png"
         ],
         [
             "Mikrotik",
-            "url"
+            "https://raw.githubusercontent.com/N3-Z/myProfile/main/mikrotik.png"
         ],
         [
             "Cisco", 
-            "url"
+            "https://raw.githubusercontent.com/N3-Z/myProfile/main/cisco.png"
         ]
     ],
-    "other" : [
+    "others" : [
         [
             "Android Studio",
-            "url"
+            "https://raw.githubusercontent.com/N3-Z/myProfile/main/android.png"
         ],
         [
             "React",
-            "url"
+            "https://raw.githubusercontent.com/N3-Z/myProfile/main/react.png"
         ],
         [
             "Visual Studio",
-            "url"
+            "https://raw.githubusercontent.com/N3-Z/myProfile/main/visuals.png"
         ]
     ]
 
